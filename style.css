@@ -105,6 +105,7 @@ a {
     position: relative!important;
     padding: 30px 0!important;
     transition: all ease .2s!important;
+    pointer-events: auto!important;
 }
 
 .hcs-nav-link:hover {
