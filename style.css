@@ -431,7 +431,6 @@ body {
 body.pushed {
     transform: TranslateX(-300px)!important;
     overflow: hidden!important;
-    pointer-events: none!important;
 }
 
 body.pushed::after {
