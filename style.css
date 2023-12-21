@@ -81,6 +81,7 @@ a {
     align-items: center!important;
     background-color: #0f0f0f!important;
     padding: 0 20px!important;
+    margin-bottom: 15px!important; 
 }
 
 #hcs-header .hcs-container {
