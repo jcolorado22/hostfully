@@ -393,12 +393,6 @@ a {
     }
 }
 
-#header {
-    background-image: url("https://orbirental-images.s3.amazonaws.com/4a2e267a-60c1-4133-ac43-30f9811ec593")!important;
-    background-position: 50% 50%!important;
-    background-size: cover!important;
-}
-
 #search-form {
     background: #FFF!important;
     padding: 20px!important;
