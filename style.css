@@ -160,7 +160,7 @@ a {
     }
 
     #hcs-menu-toggle svg {
-        fill: #FFF!important;
+        fill: #FFC106!important;
     }
 
     #hcs-menu-top {
@@ -452,6 +452,6 @@ body.pushed::after {
 
 .listing-thumbnail-property-price,.orbirental-capture-widget-form button,.btn,.nav-tabs > li.active > a,.nav-tabs > li.active > a:focus,.nav-tabs > li.active > a:hover {
     color: #FFF!important;
-    background-color: #ef4b1b!important;
-    border-color: #ef4b1b!important;
+    background-color: #fcc106!important;
+    border-color: #fcc106!important;
 }
