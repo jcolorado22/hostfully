@@ -106,6 +106,12 @@ a {
     padding: 30px 0!important;
     transition: all ease .2s!important;
 }
+
+.hcs-nav-link:hover {
+    color: #FFC106!important;
+    transition: all ease .2s!important;
+}
+
 .hcs-nav-link::before {
     content: ""!important;
     position: absolute!important;
