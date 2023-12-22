@@ -192,6 +192,9 @@ a {
     .hcs-nav-link {
         color: #000!important;
         padding: 0!important;
+
+    .hcs-logo {
+        justify-content: center!important;
     }
 }
 
