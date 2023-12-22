@@ -155,7 +155,7 @@ a {
     display: none!important;
 }
 
-@media only screen and (max-width: 1200px) {
+@media only screen and (max-width: 768px) {
     #hcs-menu-toggle {
         display: block!important;
     }
